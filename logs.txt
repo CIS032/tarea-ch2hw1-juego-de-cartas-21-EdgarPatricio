@@ -1,0 +1,22 @@
+Bienvenido al juego de BLACKJACK
+
+Usted tiene 100 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
+
+
+
+
+Tus cartas son    Jota de Diamantes    9 de CorazonesTu total es: 19
+El repartidor muestra el 4 de Diamantes
+Jugar (G) o Levantar (L)? 
+Soportes de usuario
+.Las cartas del repartidor son
+     4 de Diamantes
+     6 de Diamantes
+El repartidor acierta y obtiene 2 de Corazones
+El repartidor acierta y obtiene 3 de Espadas
+El repartidor acierta y obtiene As de Corazones
+El repartidor acierta y obtiene 7 de Corazones
+
+Repartidor perdio por ir por encima de 21. GanasUsted tiene 123 dolares.
+¿Cuánto dinero quiere apostar?  (Ingresar 0 para finalizar.)?
